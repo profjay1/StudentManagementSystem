@@ -54,5 +54,5 @@ Open a pull request
 
 License
 
-MIT © Your Name
+MIT © Saheed Omotola
 
